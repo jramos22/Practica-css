@@ -5,5 +5,23 @@
 }
 ul{
     margin: 0 auto;
+    margin-top: 60px;
+    
+}
+a#boton1{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 110px;
+    padding-right: 110px;
+    text-decoration: none;
+}
+#boton1:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    
 }
 
