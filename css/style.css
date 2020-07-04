@@ -2,11 +2,26 @@
     padding: 0px;
     margin: 0px;
     text-align: center;
+    background-color: black;
+}
+div{
+    background-color: white;
+    border: 6px solid cornflowerblue;
+    margin: 0 auto;
+    width: 1000px;
+    height: 600px;
+    color: black;
+    margin-top: 100px;
+}
+h1{
+    color: white;
+    margin-top: 20px;
 }
 ul{
     margin: 0 auto;
-    margin-top: 60px;
-    
+    margin-top: 70px;
+    font-size: 20px;
+    background-color: white;
 }
 a#boton1{
     background-color: black;
@@ -49,12 +64,26 @@ a#boton3{
     padding-left: 120px;
     padding-right: 120px;
     text-decoration: none;
-    border: 1px solid black;
 }
 #boton3:hover{
     background-color: black;
     color: #F0F0F0;
     text-decoration: none;
-    border: 1px solid white;
+}
+a#boton4{
+    background-color: #0074da;
+    color: #616066;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 130px;
+    padding-right: 130px;
+    text-decoration: none;
+    
+}
+#boton4:hover{
+    background-color: #616066;
+    color: #0074da;
+    text-decoration: none;
+    
     
 }
