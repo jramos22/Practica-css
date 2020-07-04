@@ -41,3 +41,20 @@ a#boton2{
     border: 1px solid white;
     
 }
+a#boton3{
+    background-color: #F0F0F0;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-decoration: none;
+    border: 1px solid black;
+}
+#boton3:hover{
+    background-color: black;
+    color: #F0F0F0;
+    text-decoration: none;
+    border: 1px solid white;
+    
+}
